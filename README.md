@@ -1,13 +1,21 @@
 RentHouse Website Overview
+
 Introduction
+
 Welcome to RentHouse, your ultimate destination for finding new and featured properties in your local city. Our platform offers a user-friendly interface to search, explore, and connect with properties that suit your needs.
 
 Features
+
 Home Page
+
 Search Functionality: Easily search for properties by city/street, property type, and price range.
+
 Featured Property Types: Browse through various property types including Family Houses, Houses & Villas, Apartments, Offices & Studios, and Villas & Condos.
+
 Recent Property Listings: View recently listed properties with details such as location, price per square foot, and property type.
+
 Navigation
+
 Home: Access the main search and featured properties.
 About: Learn more about RentHouse and our mission.
 Services: Explore the services we offer.
